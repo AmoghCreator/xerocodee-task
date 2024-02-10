@@ -29,12 +29,6 @@ const Header = () => {
       <div className="md:hidden">
         <Image src={Hamburg} alt="" height={30} width={30} />
       </div>
-      <Drawer anchor="right" open={true}>
-        <h1>Hello</h1>
-        <h1>There</h1>
-        <h1>Amigo</h1>
-      </Drawer>
-
     </div>
   )
 }

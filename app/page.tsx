@@ -85,30 +85,30 @@ export default function name(params: any) {
           <p>Our 4,000+ team has expertise in almost everyprogramming language.</p>
         </div>
       </div>
-      <div className="w-screen relative bottom-40 md:px-10 ">
-        <div className="flex overflow-scroll gap-5 bg-transparent">
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
+      <div className="w-screen relative md:bottom-40 md:px-10 ">
+        <div className="flex overflow-scroll gap-5 bg-transparent h-64">
+          <div className="min-w-full shadow-2xl px-5 bg-white rounded-2xl">
             <h1 className="text-xl font-semibold pb-5">"Exceptional Solutions, Exceeded Expectations!"</h1>
             <p className="text-sm">"Working with Nearshore has been an absolute pleasure. Their team took the time to understand our unique needs and delivered a solution that not only met but exceeded our expectations. Their expertise and commitment to excellence are truly commendable."</p>
             <hr />
             <h1 className="text-sm font-semibold">Mary Johnson</h1>
             <p className="text-sm">CEO of TechCraft Solutions</p>
           </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
+          <div className="min-w-full shadow-2xl px-5 bg-white rounded-2xl">
             <h1 className="text-xl font-semibold pb-5">"Exceptional Solutions, Exceeded Expectations!"</h1>
             <p className="text-sm">"Working with Nearshore has been an absolute pleasure. Their team took the time to understand our unique needs and delivered a solution that not only met but exceeded our expectations. Their expertise and commitment to excellence are truly commendable."</p>
             <hr />
             <h1 className="text-sm font-semibold">Mary Johnson</h1>
             <p className="text-sm">CEO of TechCraft Solutions</p>
           </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
+          <div className="min-w-full  shadow-2xl px-5 bg-white rounded-2xl">
             <h1 className="text-xl font-semibold pb-5">"Exceptional Solutions, Exceeded Expectations!"</h1>
             <p className="text-sm">"Working with Nearshore has been an absolute pleasure. Their team took the time to understand our unique needs and delivered a solution that not only met but exceeded our expectations. Their expertise and commitment to excellence are truly commendable."</p>
             <hr />
             <h1 className="text-sm font-semibold">Mary Johnson</h1>
             <p className="text-sm">CEO of TechCraft Solutions</p>
           </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
+          <div className="min-w-full  shadow-2xl px-5 bg-white rounded-2xl">
             <h1 className="text-xl font-semibold pb-5">"Exceptional Solutions, Exceeded Expectations!"</h1>
             <p className="text-sm">"Working with Nearshore has been an absolute pleasure. Their team took the time to understand our unique needs and delivered a solution that not only met but exceeded our expectations. Their expertise and commitment to excellence are truly commendable."</p>
             <hr />
@@ -117,27 +117,25 @@ export default function name(params: any) {
           </div>
         </div>
       </div>
-      <div className="text-center pt-8 pb-8 bg-blue-100 m-4 mt-8 md:mt-0 md:m-4 rounded-3xl">
-        <h1 className="text-2xl pb-3">Choose Us: Your Path to Innovation and <span className="text-blue-500">Success</span></h1>
-        <p>Our 4,000+ team has expertise in almost everyprogramming language.</p>
+      <div className="pt-8 pb-8 bg-blue-100 m-4 mt-8 md:mt-0 md:m-4 rounded-3xl">
+        <h1 className="text-center text-2xl pb-3">Choose Us: Your Path to Innovation and <span className="text-blue-500">Success</span></h1>
+        <p className="text-center ">Our 4,000+ team has expertise in almost everyprogramming language.</p>
         <div className="flex gap-4 justify-center overflow-scroll">
-          <div className="ml-64 md:ml-0 w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
+          <div className="min-ml-96 min-h-36 md:ml-0 min-w-56 shadow-2xl px-5 bg-white rounded-2xl">
             <h1 className="text-md font-semibold">Expertise Across the Tech Spectrum</h1>
+            <p className="text-sm">Our team consists of seasoned developers, designers, and experts who excel in various areas of technology.</p>
           </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
-            <h1 className="text-md font-semibold">Microsoft</h1>
+          <div className="min-ml-96 min-h-36 md:ml-0 min-w-56 shadow-2xl px-5 bg-white rounded-2xl">
+            <h1 className="text-md font-semibold">Expertise Across the Tech Spectrum</h1>
+            <p className="text-sm">Our team consists of seasoned developers, designers, and experts who excel in various areas of technology.</p>
           </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
-            <h1 className="text-md font-semibold">Google</h1>
+          <div className="min-ml-96 min-h-36 md:ml-0 min-w-56 shadow-2xl px-5 bg-white rounded-2xl">
+            <h1 className="text-md font-semibold">Expertise Across the Tech Spectrum</h1>
+            <p className="text-sm">Our team consists of seasoned developers, designers, and experts who excel in various areas of technology.</p>
           </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
-            <h1 className="text-md font-semibold">Slack</h1>
-          </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
-            <h1 className="text-md font-semibold">LG</h1>
-          </div>
-          <div className="w-4/6 shadow-2xl p-5 bg-white rounded-2xl">
-            <h1 className="text-md font-semibold">SONY</h1>
+          <div className="min-ml-96 min-h-36 md:ml-0 min-w-56 shadow-2xl px-5 bg-white rounded-2xl">
+            <h1 className="text-md font-semibold">Expertise Across the Tech Spectrum</h1>
+            <p className="text-sm">Our team consists of seasoned developers, designers, and experts who excel in various areas of technology.</p>
           </div>
         </div>
       </div>
